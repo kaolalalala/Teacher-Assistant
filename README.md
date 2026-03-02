@@ -1,4 +1,4 @@
-# 通用教师助手 (Teacher Assistant)
+# 考拉通用教师助手 (Kaola Teacher Assistant)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
